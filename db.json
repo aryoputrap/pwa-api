@@ -1,0 +1,25 @@
+{ 
+  "products":
+    [
+      {"id":1,"name":"Swan, trumpeter","category":"Turquoise"},
+      {"id":2,"name":"Spotted-tailed quoll","category":"Red"},
+      {"id":3,"name":"Turtle (unidentified)","category":"Turquoise"},
+      {"id":4,"name":"Fox, savanna","category":"Maroon"},
+      {"id":5,"name":"Cobra (unidentified)","category":"Violet"},
+      {"id":6,"name":"Fox, savanna","category":"Orange"},
+      {"id":7,"name":"Duck, comb","category":"Maroon"},
+      {"id":8,"name":"Fox, grey","category":"Khaki"},
+      {"id":9,"name":"Tawny eagle","category":"Purple"},
+      {"id":10,"name":"Dark-winged trumpeter","category":"Turquoise"},
+      {"id":11,"name":"Northern phalarope","category":"Violet"},
+      {"id":12,"name":"Seal, northern elephant","category":"Teal"},
+      {"id":13,"name":"Cat, toddy","category":"Blue"},
+      {"id":14,"name":"Magpie, australian","category":"Purple"},
+      {"id":15,"name":"Monkey, red howler","category":"Goldenrod"},
+      {"id":16,"name":"Lizard, desert spiny","category":"Indigo"},
+      {"id":17,"name":"Dark-winged trumpeter","category":"Khaki"},
+      {"id":18,"name":"Common pheasant","category":"Teal"},
+      {"id":19,"name":"Albatross, waved","category":"Yellow"},
+      {"id":20,"name":"Two-toed tree sloth","category":"Fuscia"}
+    ]
+ }
